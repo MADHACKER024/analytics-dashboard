@@ -1,0 +1,10 @@
+POST /api/track
+POST /api/session/start
+POST /api/session/end
+
+GET /api/dashboard
+GET /api/dashboard/most-visited
+GET /api/dashboard/page-time
+GET /api/dashboard/navigation
+GET /api/dashboard/entry-source
+GET /api/dashboard/active-users
